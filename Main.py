@@ -1,5 +1,5 @@
 fruitList = ["banana", "apple", "lemmon"]
 
 
-# Get the fruit name from user, then find the index of the fruit.
-# Key Term "for loop"
+# Get the fruit name from user, then print all elements but the fruit inputted by user
+
